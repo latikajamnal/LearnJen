@@ -1,0 +1,6 @@
+/ANT/Results*
+/bin
+!/ANT/build.xml
+.metadata
+.provarCaches
+.testcycles
